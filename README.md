@@ -1,11 +1,10 @@
 # ProjetoDSWTDSV3GAL
-(Clonar) README para o seu projeto no GitHub:
 
----
-TEMA: (Desenvolver o tema como Cibersegurança, Janeiro Branco, Projeto de Web Design, entre outros)
+TEMA: Cybersegurança e saúde mental
 
 Título:
-# Análise de Dados de Cibersegurança
+# Segurança Digital e bem-estar dos idosos na Era da Informação
+
 
 ## Descrição do Projeto
 
@@ -13,11 +12,11 @@ Este projeto tem como objetivo criar um dataframe para análise de dados de cibe
 Utilizando a linguagem Python e a biblioteca Pandas, o projeto visa fornecer respostas para os questionamentos* 
 sobre os dados coletados, ajudando a identificar padrões e tendências em cibersegurança.
 
-*Questão 1: 
+*Questão 1: Qual é a faixa etária dos idosos que utilizam tecnologia?
 
-*Questão 2:
+*Questão 2: Quais são os problemas de segurança digital enfrentados por esses usuários?
 
-*Questão 3:
+*Questão 3: O que esses problemas de segurança digital causam nesses usuários?
 
 
 ## Tecnologias Utilizadas
