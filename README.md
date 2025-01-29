@@ -2,8 +2,8 @@
 
 TEMA: Cybersegurança e saúde mental
 
-Título:
-# Segurança Digital e bem-estar dos idosos na Era da Informação
+
+# Título: Segurança Digital e bem-estar dos idosos na Era da Informação
 
 
 ## Descrição do Projeto
