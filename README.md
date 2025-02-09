@@ -16,7 +16,7 @@ sobre os dados coletados, ajudando a identificar padrões e tendências em ciber
 
 *Questão 2: Quais são os problemas de segurança digital enfrentados por esses usuários?
 
-*Questão 3: O que esses problemas de segurança digital causam nesses usuários?
+*Questão 3: O que esses problemas de segurança digital causam na mente e no emocional desses usuários?
 
 
 ## Tecnologias Utilizadas
