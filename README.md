@@ -1,4 +1,4 @@
-# ProjetoDSWTDSV3GAL
+# Projeto_DSW_TDSV3_Gardenia_Artemisa
 
 # TEMA: Cybersegurança e saúde mental
 
